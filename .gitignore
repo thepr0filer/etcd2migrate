@@ -1,6 +1,7 @@
 *.class
 
-# Mobile Tools for Java (J2ME)
+.idea/
+.gradle/
 .mtj.tmp/
 
 # Package Files #
